@@ -1,4 +1,0 @@
-llama-cpp-python
-langchain
-fastapi
-uvicorn
